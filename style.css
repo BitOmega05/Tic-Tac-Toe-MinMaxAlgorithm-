@@ -29,7 +29,7 @@ table tr td:last-child{
 }
 .endgame{
     display: none;
-    width: 200px;
+    width: 180px;
     top: 40%;
     background-color: rgba(238, 199, 159, 0.8);
     position: absolute;
